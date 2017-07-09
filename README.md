@@ -13,3 +13,5 @@
 [Oasis/Standing on the Shoulder of Giants](Oasis/Standing on the Shoulder of Giants)
 
 [Patsy Cline/Ultimate Collection (Crimson)](Patsy Cline/Ultimate Collection [Crimson])
+
+[Ray LaMontagne/Till the Sun Turns Black](Ray LaMontagne/Till the Sun Turns Black)
