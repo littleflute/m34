@@ -1,0 +1,14 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "02 Whispers in the Dark.mp3";		
+f[2]	= "03 I Will Wait.mp3";		
+f[3]	= "04 Holland Road.mp3";		
+f[4]	= "05 Ghosts That We Knew.mp3";		
+f[5]	= "06 Lover of the Light.mp3";		
+f[6]	= "07 Lovers' Eyes.mp3";		
+f[7]	= "09 Hopeless Wanderer.mp3";		
+f[8]	= "10 Broken Crown.mp3";		
+f[9]	= "11 Below My Feet.mp3";		
+f[10]	= "12 Not With Haste.mp3";		
+f[11]	= "Babel.mp3";		
+f[12]	= "Reminder.mp3";		
