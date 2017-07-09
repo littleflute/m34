@@ -1,0 +1,12 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "01 Fuckin' in the Bushes.mp3";		
+f[2]	= "02 Go Let It Out.mp3";		
+f[3]	= "03 Who Feels Love-.mp3";		
+f[4]	= "04 Put Yer Money Where Yer Mouth Is.mp3";		
+f[5]	= "05 Little James.mp3";		
+f[6]	= "06 Gas Panic.mp3";		
+f[7]	= "07 Where Did It All Go Wrong-.mp3";		
+f[8]	= "08 Sunday Morning Call.mp3";		
+f[9]	= "09 I Can See a Liar.mp3";		
+f[10]	= "10 Roll It Over.mp3";		
