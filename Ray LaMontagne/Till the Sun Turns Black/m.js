@@ -1,0 +1,13 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "01 Be Here Now.mp3";		
+f[2]	= "04 Three More Days.mp3";		
+f[3]	= "05 Can I Stay.mp3";		
+f[4]	= "06 You Can Bring Me Flowers.mp3";		
+f[5]	= "07 Gone Away from Me.mp3";		
+f[6]	= "08 Lesson Learned.mp3";		
+f[7]	= "09 Truly, Madly, Deeply.mp3";		
+f[8]	= "10 Till the Sun Turns Black.mp3";		
+f[9]	= "11 Within You.mp3";		
+f[10]	= "Barfly.mp3";		
+f[11]	= "Empty.mp3";		
