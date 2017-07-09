@@ -1,4 +1,4 @@
-[v0.0.7](https://github.com/littleflute/m34/edit/master/README.md)
+[v0.0.8](https://github.com/littleflute/m34/edit/master/README.md)
 
 [Finger Eleven/Them vs. You vs. Me](Finger Eleven/Them vs. You vs. Me)
 
@@ -11,3 +11,5 @@
 [Neville Marriner/Vaughan Williams Concert](Neville Marriner/Vaughan Williams Concert)
 
 [Oasis/Standing on the Shoulder of Giants](Oasis/Standing on the Shoulder of Giants)
+
+[Patsy Cline/Ultimate Collection (Crimson)](Patsy Cline/Ultimate Collection [Crimson])
